@@ -1,0 +1,1 @@
+Une lampe  dispose d'une couleur et sait si elle est allumée ou non à un instant donnée. Elle connait un afficheur auquel elle notifie ses changements d'état. 

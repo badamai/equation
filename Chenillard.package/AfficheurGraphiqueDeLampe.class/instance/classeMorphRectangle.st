@@ -1,0 +1,3 @@
+initialization
+classeMorphRectangle
+	^BorderedMorph 

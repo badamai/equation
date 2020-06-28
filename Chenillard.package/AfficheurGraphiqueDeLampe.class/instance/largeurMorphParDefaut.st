@@ -1,0 +1,3 @@
+initialization
+largeurMorphParDefaut
+	^70

@@ -1,0 +1,3 @@
+etat
+estAllumee
+	^ estAllumee

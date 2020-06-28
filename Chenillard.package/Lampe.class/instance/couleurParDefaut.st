@@ -1,0 +1,3 @@
+initialisation
+couleurParDefaut
+	^Color yellow

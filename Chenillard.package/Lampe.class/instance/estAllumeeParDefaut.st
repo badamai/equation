@@ -1,0 +1,3 @@
+initialisation
+estAllumeeParDefaut
+	^false

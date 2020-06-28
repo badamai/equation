@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Chenillard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"estAllumee",
+		"couleur",
+		"afficheur"
+	],
+	"name" : "Lampe",
+	"type" : "normal"
+}

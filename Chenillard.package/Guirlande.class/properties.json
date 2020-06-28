@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "BAYANGTONDIARMAND 11/28/2018 09:47",
+	"super" : "Object",
+	"category" : "Chenillard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lampes"
+	],
+	"name" : "Guirlande",
+	"type" : "normal"
+}

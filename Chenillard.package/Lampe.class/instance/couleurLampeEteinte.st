@@ -1,0 +1,3 @@
+apparence
+couleurLampeEteinte
+	^Color black
